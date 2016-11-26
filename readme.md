@@ -12,6 +12,8 @@ For our model, we experimented with included important national socio-economic a
 Why building a predictive model is so important: 
 If an outbreak is predicted in a late stage, intervention measures are decreasingly effective. If an epidemic can be detected earlier or even predicted before occurring, the number of cases avoided increases (as can be seen in the image below).
 
+
+<div style="text-align:center"><img src ="https://github.com/MReusens/datasset-dengue/blob/master/pictures%20social%20media/valueofpredictivemodel.PNG" /></div>
 ![The value of outbreak prediction](https://github.com/MReusens/datasset-dengue/blob/master/pictures%20social%20media/valueofpredictivemodel.PNG "Value of predictive model")
  
 Who needs sleep? Even during the few hours of rest we had, our models were running in our brains. With concerted effort, at the end of the thirty-six hours, we’ve arrive at a nice final presentation for you to enjoy. Feedback is most welcome!
