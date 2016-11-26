@@ -10,7 +10,9 @@ Ideas for approaching this project were manifold, and we wanted to really use ou
 For our model, we experimented with included important national socio-economic and environmental data, with the goal of ultimately applying it to different countries as a next step.
  
 Why building a predictive model is so important: 
-If an outbreak is predicted in a late stage, intervention measures are decreasingly effective. If an epidemic can be detected earlier or even predicted before occurring, the number of cases avoided increases (as can be seen in the image below
+If an outbreak is predicted in a late stage, intervention measures are decreasingly effective. If an epidemic can be detected earlier or even predicted before occurring, the number of cases avoided increases (as can be seen in the image below).
+
+![The value of outbreak prediction](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
  
 Who needs sleep? Even during the few hours of rest we had, our models were running in our brains. With concerted effort, at the end of the thirty-six hours, we’ve arrive at a nice final presentation for you to enjoy. Feedback is most welcome!
  
