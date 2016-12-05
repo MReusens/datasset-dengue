@@ -1,0 +1,3 @@
+1. Install & unzip the folder
+2. Open Global.R & fill in the relevant folders
+3. Launch the app!
